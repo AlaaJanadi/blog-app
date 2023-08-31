@@ -1,0 +1,11 @@
+.idea
+
+frontend/.vscode
+frontend/.angular
+frontend/node_modules
+frontend/dist
+frontend/.idea
+frontend/.gitignore
+
+
+
